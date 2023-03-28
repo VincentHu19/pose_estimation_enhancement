@@ -1,6 +1,8 @@
 # pose_estimation_enhancement
 基于头部姿态估计的驾驶员注意力检测系统
 
+创新实验课做的小玩意，由于课程的要求，项目是基于树莓派和电脑软硬件结合的
+
 Server为服务器端，即电脑端code
 
 Client为客户端，即树莓派端的code
